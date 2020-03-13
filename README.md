@@ -15,5 +15,6 @@ A very simple PHP (sorry guys) app showing how you can educate a target group ab
 - FYI, an android version of the simulator is available
 - On the simulator, press 'SMS icon' -> 'create new message' -> 'enter the shortCode you created on the sandbox app and type in "Corona"
 - Test for the other keywords that we created in our code and observe the responses, you can also find the keywords here: https://tinyurl.com/srgpkes
+- Watch a 30 second screencast about what we've just done here: https://tinyurl.com/t6c62w7
 - Done! Our 2-way SMS works
 - There’s 1001 ways to improve this app. Feel free to poke it in your free time. Happy coding 🙂️
