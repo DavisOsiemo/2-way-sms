@@ -5,7 +5,7 @@ A very simple PHP (sorry guys) app showing how you can educate a target group ab
 - Create shortCode link: https://account.africastalking.com/apps/sandbox/sms/shortcodes/create
 - Then click this link: https://www.000webhost.com/ and sign in with Google/FB. This is a free, web hosting site
 - Create a website and name it.
-- You can find a link to your website by clicking "my sites" tab
+- You can find a link to your new website by clicking "my sites" tab
 - Make sure to have a folder named 'vendor' in the root directory 'public_html' within your website. It holds packages required by the app including AT’s PHP SDK
 - Download vendor here: https://tinyurl.com/wpyxgyj OR use the one shared in this repo
 - Create a file called incomingsms.php and paste the PHP code shared in this repo. This is your callback logic
@@ -14,6 +14,6 @@ A very simple PHP (sorry guys) app showing how you can educate a target group ab
 - Time to test on our simulator: https://simulator.africastalking.com:1517/
 - FYI, an android version of the simulator is available
 - On the simulator, press 'SMS icon' -> 'create new message' -> 'enter the shortCode you created on the sandbox app and type in "Corona"
-- Test for the other keywords that we created in our code and observe the responses
+- Test for the other keywords that we created in our code and observe the responses, you can also find the keywords here: https://tinyurl.com/srgpkes
 - Done! Our 2-way SMS works
 - There’s 1001 ways to improve this app. Feel free to poke it in your free time. Happy coding 🙂️
