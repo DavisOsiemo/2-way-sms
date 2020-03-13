@@ -1,4 +1,4 @@
-# 2-way-sms
+# 2-way-sms - Educate a target group about Corona virus
 A very simple PHP demo on how to educate a target group about COVID using AT's 2-way SMS
 
 - Sorry guys, we're using PHP
